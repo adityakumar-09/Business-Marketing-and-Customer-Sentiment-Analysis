@@ -38,7 +38,7 @@ The data was originally stored in a SQL Server database and includes the followi
 | `Products`             | Product metadata like name, category, and price                         | 20      |
 | `Customer_reviews_with_sentiment.csv` | Extended review data with sentiment scores & categories      | 1,363   |
 
-📂 [**SQL DATABASE BACKUP FILE **](https://github.com/adityakumar-09/Business-Marketing-and-Customer-Sentiment-Analysis/blob/main/Dataset/Maketing_Analysis_DataBase.bak)
+📂 [**DATASET BACKUP FILE**](https://github.com/adityakumar-09/Business-Marketing-and-Customer-Sentiment-Analysis/blob/main/Dataset/Maketing_Analysis_DataBase.bak)
 ---
 
 ## 📑 Analysis Notebooks and Script Queries
@@ -73,8 +73,8 @@ The data was originally stored in a SQL Server database and includes the followi
 ### 2️⃣ Conversion Details
 ![Conversion_Details Dashboard](https://github.com/adityakumar-09/Business-Marketing-and-Customer-Sentiment-Analysis/blob/main/Power%20BI%20dashboard%20and%20Preview/Conversion_Details_Dashboard_preview.png)
 
-### 3️⃣ Sentiment Analysis Overview
-![Sentiment Dashboard]([./images/sentiment_dashboard.png](https://github.com/adityakumar-09/Business-Marketing-and-Customer-Sentiment-Analysis/blob/main/Power%20BI%20dashboard%20and%20Preview/Customer_Review_Dashboard_Preview.png))
+### 3️⃣ Customer review and Sentiment Analysis Overview
+![Cusotmer_Sentiment Dashboard](https://github.com/adityakumar-09/Business-Marketing-and-Customer-Sentiment-Analysis/blob/main/Power%20BI%20dashboard%20and%20Preview/Customer_Review_Dashboard_Preview.png)
 
 ### 4️⃣ Social Media Interaction 
 ![Social_Media_Details Dashboard](https://github.com/adityakumar-09/Business-Marketing-and-Customer-Sentiment-Analysis/blob/main/Power%20BI%20dashboard%20and%20Preview/Social_Media_Dashboard_Preview.png)
