@@ -1,5 +1,6 @@
 # 📊 Business Marketing and Customer Sentiment Analysis
-📄 [**View Full Report (PDF)**](https://drive.google.com/file/d/1_0xoAGXMA6eONg6L_omfeXdjZ0NfJ5xL/view?usp=drivesdk)
+📄 [**View Full Report (PDF)**](https://github.com/adityakumar-09/Business-Marketing-and-Customer-Sentiment-Analysis/blob/main/Busniess%20Marketing%20and%20Cutomers%20Sentiment%20report%20file.pdf)
+
 This project analyzes an online retail business suffering from **low customer engagement** and **decreasing conversion rates**. The aim is to identify actionable insights through **SQL**, **Python**, and **Power BI** using customer journey logs, reviews, engagement metrics, and product data.
 
 ---
@@ -37,13 +38,13 @@ The data was originally stored in a SQL Server database and includes the followi
 | `Products`             | Product metadata like name, category, and price                         | 20      |
 | `Customer_reviews_with_sentiment.csv` | Extended review data with sentiment scores & categories      | 1,363   |
 
-📂 [**Download Dataset**](https://drive.google.com/drive/folders/1Q9xEBaYY5IBPrdwLJB6eg5jo-Hsw6iOz)
+📂 [**SQL DATABASE BACKUP FILE **](https://github.com/adityakumar-09/Business-Marketing-and-Customer-Sentiment-Analysis/blob/main/Dataset/Maketing_Analysis_DataBase.bak)
 ---
 
 ## 📑 Analysis Notebooks and Script Queries
 
-📘 [**Exploratory Data Analysis**](https://github.com/adityakumar-09/Vendor-Sales-Analysis/blob/main/Exploratroy%20Data%20Analysis.ipynb)  
-📗 [**Vendor Performance Analysis**](https://github.com/adityakumar-09/Vendor-Sales-Analysis/blob/main/Venor%20Peformance%20Analysis.ipynb)
+📘 [**Sentiment Analysis**](https://github.com/adityakumar-09/Business-Marketing-and-Customer-Sentiment-Analysis/blob/main/Analysis%20Notebook%20and%20SQL%20Scripts/Sentiment%20Analysis.ipynb) 
+📗 [**Script Queries**](https://github.com/adityakumar-09/Business-Marketing-and-Customer-Sentiment-Analysis/tree/main/Analysis%20Notebook%20and%20SQL%20Scripts)
 
 ---
 
@@ -66,17 +67,17 @@ The data was originally stored in a SQL Server database and includes the followi
 
 ## 📊 Power BI Dashboard Previews
 
-### 1️⃣ Customer Journey & Conversion Rate
-![Customer Journey Dashboard](./images/conversion_dashboard.png)
+### 1️⃣ Overview
+![Overview Dashboard](https://github.com/adityakumar-09/Business-Marketing-and-Customer-Sentiment-Analysis/blob/main/Power%20BI%20dashboard%20and%20Preview/Overview_Dashboard_Preview.png)
 
-### 2️⃣ Engagement Performance by Content Type
-![Engagement Dashboard](./images/engagement_dashboard.png)
+### 2️⃣ Conversion Details
+![Conversion_Details Dashboard](https://github.com/adityakumar-09/Business-Marketing-and-Customer-Sentiment-Analysis/blob/main/Power%20BI%20dashboard%20and%20Preview/Conversion_Details_Dashboard_preview.png)
 
 ### 3️⃣ Sentiment Analysis Overview
-![Sentiment Dashboard](./images/sentiment_dashboard.png)
+![Sentiment Dashboard]([./images/sentiment_dashboard.png](https://github.com/adityakumar-09/Business-Marketing-and-Customer-Sentiment-Analysis/blob/main/Power%20BI%20dashboard%20and%20Preview/Customer_Review_Dashboard_Preview.png))
 
-### 4️⃣ Product Category and Rating Insights
-![Product Insights Dashboard](./images/product_insights_dashboard.png)
+### 4️⃣ Social Media Interaction 
+![Social_Media_Details Dashboard](https://github.com/adityakumar-09/Business-Marketing-and-Customer-Sentiment-Analysis/blob/main/Power%20BI%20dashboard%20and%20Preview/Social_Media_Dashboard_Preview.png)
 
 ---
 
