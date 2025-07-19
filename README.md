@@ -85,4 +85,4 @@ The data was originally stored in a SQL Server database and includes the followi
 ## 👨‍💻 Created By
 
 **Aditya Kumar**  
-🔗 [LinkedIn](https://www.linkedin.com/in/aditya-kumar-a35963)
+🔗 [LinkedIn](https://www.linkedin.com/in/aditya-kumar-a35963371/)
